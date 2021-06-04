@@ -1,0 +1,24 @@
+{
+  "name": "NodeJs-EJS",
+  "version": "1.0.0",
+  "description": "Trabalhando com arquivo EJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegorhcp89/NodeJs-EJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegorhcp89/NodeJs-EJS/issues"
+  },
+  "homepage": "https://github.com/diegorhcp89/NodeJs-EJS#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
